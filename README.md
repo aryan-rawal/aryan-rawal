@@ -2,7 +2,7 @@
 <h3 align="center">🌱A passionate IT graduate from India</h3>
 
 
-- 🔭 I built [IT Ka Funda](https://itkafunda.azurewebsites.net/) <sub><i>and few other projects</i></sub>
+- 🔭 I built [IT Ka Funda](https://itkafunda.azurewebsites.net/), [Imgerase](https://huggingface.co/spaces/Aryanrawal/imgerase) <sub><i>and few other projects</i></sub>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/aryanrawalar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryanrawalar15" height="30" width="40" /></a>
