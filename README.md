@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Rawal</h1>
+<h3 align="center">🏢Assocaite Analyst at Deloitte USI</h3>
 <h3 align="center">🌱A passionate IT graduate from India</h3>
 
 
